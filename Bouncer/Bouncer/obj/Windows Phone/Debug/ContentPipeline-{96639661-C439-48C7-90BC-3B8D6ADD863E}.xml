@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>InGameFont.spritefont</Source>
+      <Name>InGameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\InGameFont.xnb</Output>
+      <Time>2012-04-12T08:16:14.3559516-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HiScoreFont.spritefont</Source>
+      <Name>HiScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\HiScoreFont.xnb</Output>
+      <Time>2012-04-12T12:30:21.3497777-07:00</Time>
+    </Item>
+    <Item>
+      <Source>basket.png</Source>
+      <Name>basket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\basket.xnb</Output>
+      <Time>2012-04-09T18:23:29.8416404-07:00</Time>
+    </Item>
+    <Item>
+      <Source>circle_blue.png</Source>
+      <Name>circle_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\circle_blue.xnb</Output>
+      <Time>2012-04-11T17:26:30.3044143-07:00</Time>
+    </Item>
+    <Item>
+      <Source>circle_green.png</Source>
+      <Name>circle_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\circle_green.xnb</Output>
+      <Time>2012-04-11T17:26:30.3134149-07:00</Time>
+    </Item>
+    <Item>
+      <Source>circle_orange.png</Source>
+      <Name>circle_orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\circle_orange.xnb</Output>
+      <Time>2012-04-11T17:26:30.3114147-07:00</Time>
+    </Item>
+    <Item>
+      <Source>circle_purple.png</Source>
+      <Name>circle_purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\circle_purple.xnb</Output>
+      <Time>2012-04-11T17:26:30.3094146-07:00</Time>
+    </Item>
+    <Item>
+      <Source>circle_red.png</Source>
+      <Name>circle_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\circle_red.xnb</Output>
+      <Time>2012-04-11T17:26:30.3064145-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BounceWelcome.png</Source>
+      <Name>BounceWelcome</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\BounceWelcome.xnb</Output>
+      <Time>2012-04-11T18:23:04.9274098-07:00</Time>
+    </Item>
+    <Item>
+      <Source>play_game.png</Source>
+      <Name>play_game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\play_game.xnb</Output>
+      <Time>2012-04-11T18:39:23.8093986-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Home.png</Source>
+      <Name>Home</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\Home.xnb</Output>
+      <Time>2012-04-12T08:07:14.0520479-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Reset.png</Source>
+      <Name>Reset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\Reset.xnb</Output>
+      <Time>2012-04-12T08:33:25.9979581-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Instructions.png</Source>
+      <Name>Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\Instructions.xnb</Output>
+      <Time>2012-04-12T08:45:12.4843668-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{96639661-C439-48C7-90BC-3B8D6ADD863E}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\BouncerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\pdem\Documents\Visual Studio 2010\windows phone\Bouncer\Bouncer\Bouncer\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-13T14:20:21.5915301-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

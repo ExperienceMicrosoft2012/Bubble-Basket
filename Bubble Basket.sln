@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble Basket", "Bouncer\Bouncer\Bubble Basket.csproj", "{2AF88B49-C72B-400B-9A07-BE198DE1FB56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouncerContent", "Bouncer\BouncerContent\BouncerContent.contentproj", "{96639661-C439-48C7-90BC-3B8D6ADD863E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF88B49-C72B-400B-9A07-BE198DE1FB56}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{2AF88B49-C72B-400B-9A07-BE198DE1FB56}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{2AF88B49-C72B-400B-9A07-BE198DE1FB56}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{2AF88B49-C72B-400B-9A07-BE198DE1FB56}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{2AF88B49-C72B-400B-9A07-BE198DE1FB56}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{2AF88B49-C72B-400B-9A07-BE198DE1FB56}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{96639661-C439-48C7-90BC-3B8D6ADD863E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{96639661-C439-48C7-90BC-3B8D6ADD863E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
